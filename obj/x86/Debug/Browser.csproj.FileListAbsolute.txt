@@ -1,0 +1,7 @@
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\Browser\Browser\obj\x86\Debug\Browser.browserForm.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\Browser\Browser\obj\x86\Debug\Browser.Properties.Resources.resources
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\Browser\Browser\obj\x86\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\Browser\Browser\obj\x86\Debug\Browser.exe
+C:\Users\Pelle\Dropbox\Skola\Stationära enheter c#\Browser\Browser\obj\x86\Debug\Browser.pdb
